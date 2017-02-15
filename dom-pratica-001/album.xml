@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<albums>
+    <album usuario="0669">
+        <nome>Mario Silva</nome>
+        <capa src="meuPrimeiroAlbum.jpg"/>
+        <foto id="1" classificacao="5" src="umaFoto1.jpg"/>
+        <foto id="2" classificacao="5" src="umaFoto2.jpg"/>
+        <foto id="3" classificacao="4" src="umaFoto3.jpg"/>
+        <foto id="4" classificacao="2" src="umaFoto4.jpg"/>
+        <foto id="5" classificacao="1" src="umaFoto5.jpg"/>
+        <foto id="6" classificacao="2" src="umaFoto6.jpg"/>
+    </album>
+    <album usuario="1589">
+        <nome>Silva Jardim</nome>
+        <capa src="capas/umaCapa.jpg"/>
+        <foto id="1" classificacao="5" src="fotoDoUsuario1589.jpg"/>
+        <foto id="2" classificacao="2" src="fotoDoUsuario1589.png"/>
+        <foto id="3" classificacao="3" src="fotoDoUsuario1598.jpg"/>
+    </album>
+    <album usuario="6565">
+        <nome>Jardim Botanico</nome>
+        <capa src="capas/duasCapas.jpg"/>
+        <foto id="1" classificacao="1" src="fotoDoUsuario6565-5.jpg"/>
+        <foto id="2" classificacao="7" src="fotoDoUsuario6565-10.png"/>
+        <foto id="3" classificacao="2" src="fotoDoUsuario6565-3.jpg"/>
+    </album>
+</albums>

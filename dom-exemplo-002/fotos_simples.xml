@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<banner>
+    <foto title="Primeira">
+        img/1.jpg
+    </foto>
+    <foto title="Segunda">
+        img/2.jpg
+    </foto>
+    <foto title="Terceira">
+        img/3.jpg
+    </foto>
+    <foto title="Quarta">
+        img/4.jpg
+    </foto>
+    <foto title="Quinta">
+        img/5.jpg
+    </foto>
+    <foto title="Sexta">
+        img/6.jpg
+    </foto>
+    <foto title="Sétima">
+        img/7.jpg
+    </foto>
+    <foto title="Oitava">
+        img/8.jpg
+    </foto>
+    <foto title="Nona">
+        img/9.jpg
+    </foto>
+    <foto title="Décima">
+        img/10.jpg
+    </foto>
+    <foto title="Décima Primeira">
+        img/11.jpg
+    </foto>
+</banner>
