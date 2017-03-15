@@ -2,39 +2,39 @@
 <banner>
     <foto title="Primeira">
         <caminho>img/1.jpg</caminho>
-        <classificacao>2</classificacao>
+        <classificacao>1</classificacao>
     </foto>
     <foto title="Segunda">
         <caminho>img/2.jpg</caminho>
-        <classificacao>2</classificacao>
+        <classificacao>1</classificacao>
     </foto>
     <foto title="Terceira">
         <caminho>img/3.jpg</caminho>
-        <classificacao>2</classificacao>
+        <classificacao>9</classificacao>
     </foto>
     <foto title="Quarta">
         <caminho>img/4.jpg</caminho>
-        <classificacao>2</classificacao>
+        <classificacao>8</classificacao>
     </foto>
     <foto title="Quinta">
         <caminho>img/5.jpg</caminho>
-        <classificacao>2</classificacao>
+        <classificacao>7</classificacao>
     </foto>
     <foto title="Sexta">
         <caminho>img/6.jpg</caminho>
-        <classificacao>2</classificacao>
+        <classificacao>6</classificacao>
     </foto>
     <foto title="Sétima">
         <caminho>img/7.jpg</caminho>
-        <classificacao>2</classificacao>
+        <classificacao>5</classificacao>
     </foto>
     <foto title="Oitava">
         <caminho>img/8.jpg</caminho>
-        <classificacao>2</classificacao>
+        <classificacao>4</classificacao>
     </foto>
     <foto title="Nona">
         <caminho>img/9.jpg</caminho>
-        <classificacao>2</classificacao>
+        <classificacao>3</classificacao>
     </foto>
     <foto title="Décima">
         <caminho>img/10.jpg</caminho>
@@ -42,6 +42,6 @@
     </foto>
     <foto title="Décima Primeira">
         <caminho>img/11.jpg</caminho>
-        <classificacao>2</classificacao>
+        <classificacao>1</classificacao>
     </foto>
 </banner>

@@ -42,7 +42,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 }
 ?>
 
-
 <form method="POST">
     RA: <input type="text" name="ra"/> <br/>
     Nome:<input type="text" name="nome"/> <br/>
