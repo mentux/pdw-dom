@@ -35,10 +35,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $dom->appendChild($alunos);
 
     $dom->save("alunos.xml");
-    //header("Content-Type: text/xml");
-    # imprime o xml na tela
-    //print $dom->saveXML();
-    //die();
+    header("Content-Type: text/xml");
+    //imprime o xml na tela
+    print $dom->saveXML();
+    die();
 }
 ?>
 
