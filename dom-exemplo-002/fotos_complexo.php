@@ -17,6 +17,7 @@
             echo "<tr>";
             $title = $tagFoto->getAttribute('title');
             echo "<td>$title</td>";
+
             //verifica se existem nós filhos
             if ($tagFoto->hasChildNodes()) {
                 //busca os nós filhos

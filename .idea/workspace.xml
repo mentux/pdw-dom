@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="98753713-53b5-40f3-a7dc-811be8f56e09" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dom-exemplo-002/fotos_complexo.php" afterPath="$PROJECT_DIR$/dom-exemplo-002/fotos_complexo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dom-exemplo-002/index_caminho_classificacao.php" afterPath="$PROJECT_DIR$/dom-exemplo-002/index_caminho_classificacao.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="album.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="album.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dom-pratica-001/album.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+            <state relative-caret-position="84">
+              <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -87,10 +88,10 @@
       <file leaf-file-name="index_caminho_classificacao.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dom-exemplo-002/index_caminho_classificacao.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-144">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="192">
+              <caret line="29" column="35" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="29" selection-end-column="35" />
               <folding>
-                <marker date="1489620604229" expanded="true" signature="887:1044" ph="..." />
+                <marker date="1489622610015" expanded="true" signature="837:994" ph="..." />
               </folding>
             </state>
           </provider>
@@ -106,11 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fotos_complexo.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fotos_complexo.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dom-exemplo-002/fotos_complexo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="25" column="62" lean-forward="false" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+            <state relative-caret-position="144">
+              <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -119,8 +120,8 @@
       <file leaf-file-name="fotos.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dom-exemplo-002/fotos.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+            <state relative-caret-position="48">
+              <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -149,8 +150,8 @@
         <option value="$PROJECT_DIR$/dom-basico/basico.php" />
         <option value="$PROJECT_DIR$/dom-exemplo-001/cadastro-aluno.php" />
         <option value="$PROJECT_DIR$/dom-exemplo-002/index_simples.php" />
-        <option value="$PROJECT_DIR$/dom-exemplo-002/index_caminho_classificacao.php" />
         <option value="$PROJECT_DIR$/dom-exemplo-002/fotos.xml" />
+        <option value="$PROJECT_DIR$/dom-exemplo-002/index_caminho_classificacao.php" />
         <option value="$PROJECT_DIR$/dom-exemplo-002/fotos_complexo.php" />
       </list>
     </option>
@@ -212,20 +213,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="dom-pratica-001" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pdw-dom" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="pdw-dom" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dom-exemplo-002" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -333,7 +320,7 @@
       <workItem from="1487198479585" duration="13000" />
       <workItem from="1487198527013" duration="2162000" />
       <workItem from="1487280039118" duration="90000" />
-      <workItem from="1489617944226" duration="2891000" />
+      <workItem from="1489617944226" duration="5019000" />
     </task>
     <task id="LOCAL-00001" summary="envio inicial de arquivos&#10;&#10;envio inicial de arquivos para exemplo">
       <created>1487197907944</created>
@@ -346,7 +333,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5718000" />
+    <option name="totallyTimeSpent" value="7846000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -359,7 +346,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19335347" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -435,7 +422,7 @@
         <state relative-caret-position="14">
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding>
-            <marker date="1489620604229" expanded="true" signature="887:1044" ph="..." />
+            <marker date="1489622610015" expanded="true" signature="837:994" ph="..." />
           </folding>
         </state>
       </provider>
@@ -512,7 +499,7 @@
         <state relative-caret-position="18">
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding>
-            <marker date="1489620604229" expanded="true" signature="887:1044" ph="..." />
+            <marker date="1489622610015" expanded="true" signature="837:994" ph="..." />
           </folding>
         </state>
       </provider>
@@ -589,7 +576,7 @@
         <state relative-caret-position="18">
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding>
-            <marker date="1489620604229" expanded="true" signature="887:1044" ph="..." />
+            <marker date="1489622610015" expanded="true" signature="837:994" ph="..." />
           </folding>
         </state>
       </provider>
@@ -666,7 +653,7 @@
         <state relative-caret-position="18">
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
           <folding>
-            <marker date="1489620604229" expanded="true" signature="887:1044" ph="..." />
+            <marker date="1489622610015" expanded="true" signature="837:994" ph="..." />
           </folding>
         </state>
       </provider>
@@ -711,14 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dom-pratica-001/album.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dom-exemplo-001/cadastro-aluno.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -754,28 +733,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dom-exemplo-002/index_caminho_classificacao.php">
+    <entry file="file://$PROJECT_DIR$/dom-exemplo-002/fotos.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <marker date="1489620604229" expanded="true" signature="887:1044" ph="..." />
-          </folding>
+        <state relative-caret-position="48">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dom-exemplo-002/fotos.xml">
+    <entry file="file://$PROJECT_DIR$/dom-exemplo-002/index_caminho_classificacao.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding />
+        <state relative-caret-position="192">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="26" selection-start-column="12" selection-end-line="29" selection-end-column="35" />
+          <folding>
+            <marker date="1489622610015" expanded="true" signature="837:994" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dom-exemplo-002/fotos_complexo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="25" column="62" lean-forward="false" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+        <state relative-caret-position="144">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom-pratica-001/album.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding />
         </state>
       </provider>

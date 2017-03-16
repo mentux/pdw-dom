@@ -22,9 +22,7 @@ $listaTagFoto = $dom->getElementsByTagName("foto");
                 getAttribute('title');
 
             $src =
-                $tagFoto->
-                getElementsByTagName("caminho")->
-                item(0)->nodeValue;
+$tagFoto->getElementsByTagName("caminho")->item(0)->nodeValue;
 
             $classificacao =
                 $tagFoto->
